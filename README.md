@@ -1,6 +1,4 @@
-# Ringus
-
-## An arcade game for your Apple TV
+# Ringus - An arcade game for your Apple TV
 
 If you want to tell me how much you love playing Ringus, tell your friends instead. :)
 
